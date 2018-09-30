@@ -1,0 +1,9 @@
+D:\workplace\C#\Socket-2017project\Test180927\SocketSendString\SocketSendString\bin\Debug\SocketSendString.exe
+D:\workplace\C#\Socket-2017project\Test180927\SocketSendString\SocketSendString\bin\Debug\SocketSendString.pdb
+D:\workplace\C#\Socket-2017project\Test180927\SocketSendString\SocketSendString\obj\Debug\SocketSendString.csprojAssemblyReference.cache
+D:\workplace\C#\Socket-2017project\Test180927\SocketSendString\SocketSendString\obj\Debug\SocketSendString.Form1.resources
+D:\workplace\C#\Socket-2017project\Test180927\SocketSendString\SocketSendString\obj\Debug\SocketSendString.Properties.Resources.resources
+D:\workplace\C#\Socket-2017project\Test180927\SocketSendString\SocketSendString\obj\Debug\SocketSendString.csproj.GenerateResource.cache
+D:\workplace\C#\Socket-2017project\Test180927\SocketSendString\SocketSendString\obj\Debug\SocketSendString.csproj.CoreCompileInputs.cache
+D:\workplace\C#\Socket-2017project\Test180927\SocketSendString\SocketSendString\obj\Debug\SocketSendString.exe
+D:\workplace\C#\Socket-2017project\Test180927\SocketSendString\SocketSendString\obj\Debug\SocketSendString.pdb
